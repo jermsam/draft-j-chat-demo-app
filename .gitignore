@@ -4,8 +4,9 @@
 /server/node_modules
 
 # Quasar core related directories
-.quasar
+/client/.quasar
 /client/dist
+/server/lib
 
 # Cordova related directories and files
 /client/src-cordova/node_modules
